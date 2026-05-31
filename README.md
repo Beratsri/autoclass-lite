@@ -5,7 +5,7 @@ A lightweight AutoClass library for classification, built from scratch using onl
 ## Installation
 
 ```bash
-pip install -e .
+pip install autoclass-lite
 ```
 
 ## Quick Start
