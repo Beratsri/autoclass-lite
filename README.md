@@ -1,6 +1,9 @@
 # autoclass-lite
 
-A lightweight AutoClass library for classification, built from scratch using only NumPy. Trains multiple models with cross-validation, ranks them by performance, and returns the best one — all in a single `fit()` call.
+[![PyPI version](https://img.shields.io/pypi/v/autoclass-lite)](https://pypi.org/project/autoclass-lite/)
+[![Python](https://img.shields.io/pypi/pyversions/autoclass-lite)](https://pypi.org/project/autoclass-lite/)
+
+A lightweight AutoML library for classification, built from scratch using only NumPy. Trains multiple models with cross-validation, ranks them by performance, and returns the best one — all in a single `fit()` call.
 
 ## Installation
 
